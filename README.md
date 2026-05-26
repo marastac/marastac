@@ -2,7 +2,7 @@
 
 ## Software Development Student | Frontend, .NET & Automation Enthusiast
 
-I am a Software Development student at BYU-Idaho / Ensign College passionate about web development, automation, AI tools, and digital business.
+I am a Software Development student at BYU-Idaho passionate about web development, automation, AI tools, and digital business.
 
 I enjoy building projects related to software, automation systems, business tools, and user-focused applications.
 
@@ -12,7 +12,7 @@ I enjoy building projects related to software, automation systems, business tool
 
 - 🌱 Currently learning .NET, React, SQL, software testing, and software architecture
 - 💻 Interested in Frontend Development, Automation Systems, AI tools, and SaaS products
-- 📚 Software Development student at BYU-Idaho / Ensign College
+- 📚 Software Development student at BYU-Idaho 
 - 🛠 Experience working on academic and personal projects related to web applications, databases, automation, and digital business tools
 - 🤝 Experienced in collaborative team projects using GitHub and version control workflows
 - 🎯 Goal: Build scalable software and automation solutions for businesses
