@@ -1,6 +1,6 @@
 # Hi, I'm Mario Astonitas 👋
 
-## Software Developer | Frontend & Automation Focused
+## Software Development Student | Frontend, .NET & Automation Enthusiast
 
 I am a Software Development student at BYU-Idaho / Ensign College passionate about web development, automation, AI tools, and digital business.
 
@@ -10,11 +10,13 @@ I enjoy building projects related to software, automation systems, business tool
 
 # 🚀 About Me
 
-- 🌱 Currently learning .NET, React, SQL, and software architecture
-- 💻 Interested in Frontend Development, Automation, AI, and SaaS products
-- 📚 Studying Software Development at BYU-Idaho / Ensign College
-- 🎯 Goal: Build software and automation solutions for businesses
-- ⚡ Passionate about technology, growth, and innovation
+- 🌱 Currently learning .NET, React, SQL, software testing, and software architecture
+- 💻 Interested in Frontend Development, Automation Systems, AI tools, and SaaS products
+- 📚 Software Development student at BYU-Idaho / Ensign College
+- 🛠 Experience working on academic and personal projects related to web applications, databases, automation, and digital business tools
+- 🤝 Experienced in collaborative team projects using GitHub and version control workflows
+- 🎯 Goal: Build scalable software and automation solutions for businesses
+- ⚡ Passionate about technology, innovation, and problem solving
 
 ---
 
@@ -32,6 +34,15 @@ I enjoy building projects related to software, automation systems, business tool
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+### Additional Skills
+- Software Testing
+- Database Design
+- GitHub Collaboration
+- Responsive Web Design
+- Team Collaboration
+- Version Control
+- UI/UX Focused Development
+
 ---
 
 # 📂 Featured Projects
@@ -39,6 +50,8 @@ I enjoy building projects related to software, automation systems, business tool
 ## 🧠 AI Courses Platform
 
 Interactive educational platform related to artificial intelligence learning and digital tools.
+
+• Built educational web pages and user-focused learning interfaces.
 
 🔗 https://marastac.github.io/final-proyect/
 
@@ -77,6 +90,26 @@ Senior project focused on automated document flow and process organization.
 • Designed concepts related to workflow organization and automation processes.
 
 🔗 https://github.com/marastac/autodoc-flow
+
+---
+
+## 🗄 SQL Relational Database Project
+
+Academic project focused on relational database concepts, SQL queries, and structured data organization.
+
+• Worked with database relationships, queries, and data management concepts.
+
+🔗 https://github.com/marastac/sql-relational-module3
+
+---
+
+## 🛍 Handcrafted Haven
+
+Web project focused on user experience, frontend design, and online product presentation.
+
+• Practiced responsive design and frontend development concepts.
+
+🔗 https://github.com/marastac/handcrafted-haven
 
 ---
 
